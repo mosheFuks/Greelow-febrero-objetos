@@ -16,6 +16,7 @@ class Person {
         return this.age;
     }
 }
+
 let p = new Person()
 
 function canDrinkAlcohol(){
