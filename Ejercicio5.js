@@ -6,11 +6,11 @@ class Printer {
     printerTest()  {
         return this.text
     }
+
+
 }
 
 let myPrinter = new Printer();
-
-
 
 let testResult = myPrinter.printerTest()
 
